@@ -1,0 +1,241 @@
+﻿id;texto;setor_destino;canal;urgencia_referencia;particao_recomendada
+ATE-0211;Olá, preciso conversar sobre a organização da grade ainda hoje Conseguem verificar?;coordenacao;email;alta;validacao
+ATE-0017;Gente, não consigo entrar no portal para emitir o boleto na última tentativa Aguardo retorno.;financeiro;email;normal;validacao
+ATE-0064;Olá, quero informações sobre emissão de diploma na última tentativa Obrigado.;secretaria_academica;email;normal;teste
+ATE-0099;Preciso de ajuda: o portal abre, mas minha matrícula não aparece quando possível;coordenacao;aplicativo;alta;teste
+ATE-0081;Preciso de ajuda: a matrícula em uma disciplina não foi confirmada para este período;secretaria_academica;aplicativo;normal;treino
+ATE-0010;Olá, quero informações sobre bolsa e desconto antes do prazo;financeiro;aplicativo;normal;treino
+ATE-0197;  Gente,  quero  saber como reservar um livro antes da próxima aula Obrigado.  ;biblioteca;aplicativo;normal;treino
+ATE-0028;Olá, quero informações sobre bolsa e desconto na última tentativa;financeiro;aplicativo;normal;treino
+ATE-0060;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico antes da próxima aula Aguardo retorno.;secretaria_academica;email;normal;validacao
+ATE-0012;Preciso de ajuda: preciso negociar uma parcela em atraso para este período Obrigado.;financeiro;aplicativo;normal;validacao
+ATE-0216;Preciso de ajuda: preciso de orientação acadêmica sobre o próximo período para este período 😕;coordenacao;aplicativo;normal;validacao
+ATE-0137;Gente, preciso enviar um documento à secretaria, mas o portal apresenta erro desde ontem Aguardo retorno.;suporte_tecnico;email;normal;treino
+ATE-0071;;secretaria_academica;aplicativo;alta;treino
+ATE-0104;Gente, preciso saber como pedir aproveitamento de disciplina antes da próxima aula Isso é urgente.;secretaria_academica;email;normal;teste
+ATE-0051;Preciso de ajuda: gostaria de entender o valor cobrado neste mês ainda hoje Isso é urgente.;financeiro;email;alta;teste
+ATE-0121;Olá, preciso enviar um documento à secretaria, mas o portal apresenta erro para concluir uma atividade;suporte_tecnico;email;normal;treino
+ATE-0021;Preciso de ajuda: não consigo entrar no portal para emitir o boleto antes do prazo Obrigado.;secretaria_academica;email;normal;teste
+ATE-0097;Olá, não encontrei o histórico escolar no portal na última tentativa 😕;secretaria_academica;aplicativo;normal;treino
+ATE-0022;OLÁ, QUERO INFORMAÇÕES SOBRE BOLSA E DESCONTO PELA PRIMEIRA VEZ CONSEGUEM VERIFICAR?;financeiro;aplicativo;normal;validacao
+ATE-0189;Preciso de ajuda: preciso consultar se uma obra está disponível pelo portal Conseguem verificar?;biblioteca;aplicativo;normal;validacao
+ATE-0153;Preciso de ajuda: preciso enviar um documento à secretaria, mas o portal apresenta erro quando possível Isso é urgente.;secretaria_academica;email;normal;teste
+ATE-0136;Olá, não recebo o código de acesso no email antes da próxima aula Aguardo retorno.;suporte_tecnico;aplicativo;normal;treino
+ATE-0176;Gente, não consigo acessar a biblioteca digital desde ontem 😕;biblioteca;email;normal;treino
+ATE-0156;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo pela primeira vez 😕;suporte_tecnico;aplicativo;normal;treino
+ATE-0109;Olá, não encontrei o histórico escolar no portal ainda hoje Obrigado.;secretaria_academica;aplicativo;normal;teste
+ATE-0068;Gente, preciso saber como pedir aproveitamento de disciplina antes do prazo Isso é urgente.;secretaria_academica;email;normal;treino
+ATE-0062;Gente, preciso saber como pedir aproveitamento de disciplina nesta semana 😕;secretaria_academica;email;normal;treino
+ATE-0042;Preciso de ajuda: preciso negociar uma parcela em atraso para concluir uma atividade Isso é urgente.;financeiro;aplicativo;normal;validacao
+ATE-0164;Gente, não consigo acessar a biblioteca digital antes da próxima aula Isso é urgente.;biblioteca;email;normal;validacao
+ATE-0171;Preciso de ajuda: o acesso funciona, mas o livro indicado não aparece no acervo para concluir uma atividade Conseguem verificar?;biblioteca;aplicativo;alta;treino
+ATE-0208;Olá, preciso discutir meu plano de estudos nesta semana;coordenacao;aplicativo;normal;treino
+ATE-0143;Gente, não consigo entrar no ambiente virtual para concluir uma atividade Conseguem verificar?;suporte_tecnico;email;alta;teste
+ATE-0207;Preciso de ajuda: tenho dúvida sobre equivalência entre duas disciplinas desde ontem 😕;coordenacao;email;alta;treino
+ATE-0128;Gente, a aula não aparece na plataforma pelo portal Aguardo retorno.;suporte_tecnico;aplicativo;normal;teste
+ATE-0163;Olá, o acesso funciona, mas o livro indicado não aparece no acervo para este período Isso é urgente.;suporte_tecnico;aplicativo;alta;teste
+ATE-0070;Olá, quero informações sobre emissão de diploma para este período 😕;secretaria_academica;email;normal;validacao
+ATE-0148;  Olá,  não  recebo o código de acesso no email desde ontem  ;suporte_tecnico;aplicativo;normal;teste
+ATE-0220;Olá, preciso discutir meu plano de estudos pelo portal Conseguem verificar?;coordenacao;aplicativo;normal;teste
+ATE-0226;OLÁ, PRECISO DISCUTIR MEU PLANO DE ESTUDOS PELA PRIMEIRA VEZ;coordenacao;aplicativo;normal;validacao
+ATE-0026;Gente, o pagamento ainda não foi reconhecido nesta semana Aguardo retorno.;financeiro;aplicativo;normal;teste
+ATE-0074;GENTE, PRECISO SABER COMO PEDIR APROVEITAMENTO DE DISCIPLINA PELO PORTAL OBRIGADO.;secretaria_academica;email;normal;teste
+ATE-0131;Gente, não consigo entrar no ambiente virtual quando possível;suporte_tecnico;email;alta;treino
+ATE-0025;Olá, não consigo entrar no portal para emitir o boleto desde ontem Aguardo retorno.;financeiro;email;normal;treino
+ATE-0001;Olá, não consigo entrar no portal para emitir o boleto para este período;secretaria_academica;email;normal;teste
+ATE-0146;Gente, a aula não aparece na plataforma para este período Aguardo retorno.;suporte_tecnico;aplicativo;normal;treino
+ATE-0035;Gente, não consigo emitir o comprovante de pagamento antes da próxima aula Aguardo retorno.;financeiro;email;alta;treino
+ATE-0193;Olá, quero renovar o empréstimo de um livro para concluir uma atividade 😕;biblioteca;aplicativo;normal;teste
+ATE-0072;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico desde ontem;secretaria_academica;email;normal;treino
+ATE-0067;Olá, o portal abre, mas minha matrícula não aparece para concluir uma atividade Isso é urgente.;secretaria_academica;aplicativo;alta;treino
+ATE-0230;Gente, quero orientação sobre mudança de turma nesta semana Conseguem verificar?;coordenacao;aplicativo;normal;teste
+ATE-0046;Olá, quero informações sobre bolsa e desconto antes da próxima aula;financeiro;aplicativo;normal;teste
+ATE-0007;Olá, preciso da segunda via do boleto da mensalidade ainda hoje Aguardo retorno.;financeiro;email;alta;validacao
+ATE-0178;Olá, o sistema indica uma multa que não reconheço pelo portal Obrigado.;biblioteca;email;normal;teste
+ATE-0209;GENTE, A MATRÍCULA FOI CONCLUÍDA, MAS PRECISO REVER A GRADE COM A COORDENAÇÃO PELO PORTAL;coordenacao;email;normal;treino
+ATE-0212;Gente, quero orientação sobre mudança de turma quando possível Conseguem verificar?;coordenacao;aplicativo;normal;treino
+ATE-0187;Olá, o acesso funciona, mas o livro indicado não aparece no acervo desde ontem Obrigado.;biblioteca;aplicativo;alta;treino
+ATE-0065;Gente, preciso solicitar uma declaração de matrícula ainda hoje Obrigado.;secretaria_academica;aplicativo;normal;validacao
+ATE-0133;Olá, preciso enviar um documento à secretaria, mas o portal apresenta erro antes do prazo Conseguem verificar?;secretaria_academica;email;normal;teste
+ATE-0110;Gente, preciso saber como pedir aproveitamento de disciplina quando possível Obrigado.;secretaria_academica;email;normal;validacao
+ATE-0221;Gente, a matrícula foi concluída, mas preciso rever a grade com a coordenação na última tentativa Conseguem verificar?;coordenacao;email;normal;validacao
+ATE-0186;PRECISO DE AJUDA: NÃO CONSIGO BAIXAR O ARTIGO INDICADO PELO PROFESSOR ANTES DA PRÓXIMA AULA;biblioteca;email;normal;treino
+ATE-0073;  Olá,  não  encontrei o histórico escolar no portal nesta semana Obrigado.  ;secretaria_academica;aplicativo;normal;treino
+ATE-0023;Gente, não consigo emitir o comprovante de pagamento para este período Conseguem verificar?;financeiro;email;alta;treino
+ATE-0183;Preciso de ajuda: o acesso funciona, mas o livro indicado não aparece no acervo antes do prazo Aguardo retorno.;suporte_tecnico;aplicativo;alta;teste
+ATE-0050;Gente, o pagamento ainda não foi reconhecido na última tentativa Conseguem verificar?;financeiro;aplicativo;normal;treino
+ATE-0177;Preciso de ajuda: preciso consultar se uma obra está disponível nesta semana;biblioteca;aplicativo;normal;treino
+ATE-0016;Olá, quero informações sobre bolsa e desconto pelo portal Aguardo retorno.;financeiro;aplicativo;normal;teste
+ATE-0024;Preciso de ajuda: preciso negociar uma parcela em atraso antes da próxima aula Isso é urgente.;financeiro;aplicativo;normal;treino
+ATE-0168;Preciso de ajuda: não consigo baixar o artigo indicado pelo professor na última tentativa;biblioteca;email;normal;teste
+ATE-0102;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico pela primeira vez Conseguem verificar?;secretaria_academica;email;normal;treino
+ATE-0235;Olá, preciso conversar sobre a organização da grade para concluir uma atividade;coordenacao;email;alta;teste
+ATE-0115;Olá, minha senha não funciona mesmo depois da redefinição desde ontem Conseguem verificar?;suporte_tecnico;email;alta;treino
+ATE-0077;Gente, preciso solicitar uma declaração de matrícula quando possível Isso é urgente.;secretaria_academica;aplicativo;normal;treino
+ATE-0034;Olá, quero informações sobre bolsa e desconto para este período Aguardo retorno.;financeiro;aplicativo;normal;treino
+ATE-0231;Preciso de ajuda: tenho dúvida sobre equivalência entre duas disciplinas pelo portal Isso é urgente.;coordenacao;email;alta;validacao
+ATE-0093;Preciso de ajuda: a matrícula em uma disciplina não foi confirmada antes da próxima aula Conseguem verificar?;secretaria_academica;aplicativo;normal;treino
+ATE-0196;Olá, o sistema indica uma multa que não reconheço para este período Obrigado.;biblioteca;email;normal;treino
+ATE-0008;Gente, o pagamento ainda não foi reconhecido quando possível Aguardo retorno.;financeiro;aplicativo;normal;treino
+ATE-0069;Preciso de ajuda: a matrícula em uma disciplina não foi confirmada pela primeira vez Aguardo retorno.;secretaria_academica;aplicativo;normal;teste
+ATE-0210;Preciso de ajuda: preciso de orientação acadêmica sobre o próximo período na última tentativa Obrigado.;coordenacao;aplicativo;normal;teste
+ATE-0063;Preciso de ajuda: o portal abre, mas minha matrícula não aparece pelo portal;secretaria_academica;aplicativo;alta;treino
+ATE-0213;Preciso de ajuda: a matrícula foi concluída, mas preciso rever a grade com a coordenação para concluir uma atividade Isso é urgente.;coordenacao;email;normal;treino
+ATE-0056;GENTE, O PAGAMENTO AINDA NÃO FOI RECONHECIDO PARA ESTE PERÍODO;financeiro;aplicativo;normal;teste
+ATE-0129;Preciso de ajuda: preciso enviar um documento à secretaria, mas o portal apresenta erro na última tentativa 😕;suporte_tecnico;email;normal;validacao
+ATE-0014;Gente, o pagamento ainda não foi reconhecido desde ontem Conseguem verificar?;financeiro;aplicativo;normal;treino
+ATE-0092;Gente, preciso saber como pedir aproveitamento de disciplina para este período Obrigado.;secretaria_academica;email;normal;treino
+ATE-0095;Gente, o portal abre, mas minha matrícula não aparece nesta semana Isso é urgente.;secretaria_academica;aplicativo;alta;validacao
+ATE-0218;Gente, quero orientação sobre mudança de turma desde ontem;coordenacao;aplicativo;normal;treino
+ATE-0147;Preciso de ajuda: o aplicativo fecha quando tento abrir as notas antes da próxima aula 😕;suporte_tecnico;email;alta;treino
+ATE-0214;Olá, preciso discutir meu plano de estudos antes do prazo Aguardo retorno.;coordenacao;aplicativo;normal;treino
+ATE-0020;Gente, o pagamento ainda não foi reconhecido para concluir uma atividade;financeiro;aplicativo;normal;treino
+ATE-0030;Preciso de ajuda: preciso negociar uma parcela em atraso quando possível Obrigado.;financeiro;aplicativo;normal;treino
+ATE-0116;Gente, a aula não aparece na plataforma nesta semana Conseguem verificar?;suporte_tecnico;aplicativo;normal;treino
+ATE-0169;OLÁ, QUERO RENOVAR O EMPRÉSTIMO DE UM LIVRO AINDA HOJE OBRIGADO.;biblioteca;aplicativo;normal;validacao
+ATE-0173;Gente, quero saber como reservar um livro pela primeira vez Isso é urgente.;biblioteca;aplicativo;normal;teste
+ATE-0182;Gente, não consigo acessar a biblioteca digital para concluir uma atividade Isso é urgente.;biblioteca;email;normal;treino
+ATE-0215;Gente, quero relatar um conflito de horários pela primeira vez Aguardo retorno.;coordenacao;email;alta;teste
+ATE-0234;Preciso de ajuda: preciso de orientação acadêmica sobre o próximo período quando possível 😕;coordenacao;aplicativo;normal;treino
+ATE-0087;Preciso de ajuda: o portal abre, mas minha matrícula nao aparece ainda hoje Aguardo retorno.;secretaria_academica;aplicativo;alta;treino
+ATE-0086;Gente, preciso saber como pedir aproveitamento de disciplina na última tentativa Isso é urgente.;secretaria_academica;email;normal;treino
+ATE-0018;  Preciso  de  ajuda: preciso negociar uma parcela em atraso ainda hoje 😕  ;financeiro;aplicativo;normal;treino
+ATE-0240;;coordenacao;aplicativo;normal;teste
+ATE-0166;Olá, o sistema indica uma multa que não reconheço nesta semana 😕;biblioteca;email;normal;treino
+ATE-0011;Gente, não consigo emitir o comprovante de pagamento pela primeira vez;financeiro;email;alta;teste
+ATE-0038;Gente, o pagamento ainda não foi reconhecido pelo portal;financeiro;aplicativo;normal;treino
+ATE-0033;Preciso de ajuda: não consigo entrar no portal para emitir o boleto pela primeira vez Isso é urgente.;financeiro;email;normal;treino
+ATE-0206;Gente, quero orientação sobre mudança de turma antes da próxima aula Aguardo retorno.;coordenacao;aplicativo;normal;validacao
+ATE-0179;Gente, o acesso funciona, mas o livro indicado não aparece no acervo na última tentativa Obrigado.;biblioteca;aplicativo;alta;validacao
+ATE-0057;Preciso de ajuda: não consigo entrar no portal para emitir o boleto antes da próxima aula Obrigado.;financeiro;email;normal;validacao
+ATE-0132;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo para concluir uma atividade Obrigado.;suporte_tecnico;aplicativo;normal;treino
+ATE-0098;Gente, preciso saber como pedir aproveitamento de disciplina ainda hoje 😕;secretaria_academica;email;normal;treino
+ATE-0184;Olá, o sistema indica uma multa que nao reconheço pela primeira vez 😕;biblioteca;email;normal;validacao
+ATE-0199;Olá, o acesso funciona, mas o livro indicado não aparece no acervo nesta semana Isso é urgente.;biblioteca;aplicativo;alta;validacao
+ATE-0117;Preciso de ajuda: preciso enviar um documento à secretaria, mas o portal apresenta erro pelo portal Isso é urgente.;suporte_tecnico;email;normal;treino
+ATE-0080;Gente, preciso saber como pedir aproveitamento de disciplina pela primeira vez 😕;secretaria_academica;email;normal;validacao
+ATE-0027;Preciso de ajuda: gostaria de entender o valor cobrado neste mês pelo portal 😕;financeiro;email;alta;validacao
+ATE-0112;Olá, quero informações sobre emissão de diploma antes do prazo Isso é urgente.;secretaria_academica;email;normal;treino
+ATE-0088;Olá, quero informações sobre emissão de diploma quando possível 😕;secretaria_academica;email;normal;treino
+ATE-0085;Olá, não encontrei o histórico escolar no portal pelo portal Isso é urgente.;secretaria_academica;aplicativo;normal;validacao
+ATE-0002;Gente, o pagamento ainda não foi reconhecido antes da próxima aula;financeiro;aplicativo;normal;validacao
+ATE-0130;Olá, não recebo o código de acesso no email ainda hoje;suporte_tecnico;aplicativo;normal;treino
+ATE-0233;Gente, a matrícula foi concluída, mas preciso rever a grade com a coordenação ainda hoje Aguardo retorno.;coordenacao;email;normal;treino
+ATE-0009;Preciso de ajuda: não consigo entrar no portal para emitir o boleto para concluir uma atividade 😕;financeiro;email;normal;treino
+ATE-0201;Preciso de ajuda: preciso consultar se uma obra está disponível na última tentativa Aguardo retorno.;biblioteca;aplicativo;normal;treino
+ATE-0118;Olá, nao recebo o código de acesso no email na última tentativa Aguardo retorno.;suporte_tecnico;aplicativo;normal;teste
+ATE-0157;OLÁ, PRECISO ENVIAR UM DOCUMENTO À SECRETARIA, MAS O PORTAL APRESENTA ERRO PARA ESTE PERÍODO;suporte_tecnico;email;normal;treino
+ATE-0155;Gente, não consigo entrar no ambiente virtual antes do prazo Aguardo retorno.;suporte_tecnico;email;alta;treino
+ATE-0119;Gente, não consigo entrar no ambiente virtual ainda hoje Aguardo retorno.;suporte_tecnico;email;alta;validacao
+ATE-0202;Olá, o sistema indica uma multa que não reconheço ainda hoje 😕;biblioteca;email;normal;treino
+ATE-0096;  Preciso  de  ajuda: quero corrigir um dado no meu cadastro acadêmico pelo portal Aguardo retorno.  ;secretaria_academica;email;normal;treino
+ATE-0222;Preciso de ajuda: preciso de orientação acadêmica sobre o próximo período ainda hoje Isso é urgente.;coordenacao;aplicativo;normal;treino
+ATE-0107;Gente, o portal abre, mas minha matrícula não aparece pelo portal 😕;secretaria_academica;aplicativo;alta;treino
+ATE-0227;Gente, quero relatar um conflito de horários para este período;coordenacao;email;alta;treino
+ATE-0032;Gente, o pagamento ainda não foi reconhecido antes do prazo Conseguem verificar?;financeiro;aplicativo;normal;validacao
+ATE-0223;Olá, preciso conversar sobre a organização da grade quando possível Aguardo retorno.;coordenacao;email;alta;treino
+ATE-0061;Olá, não encontrei o histórico escolar no portal desde ontem 😕;secretaria_academica;aplicativo;normal;treino
+ATE-0036;Preciso de ajuda: preciso negociar uma parcela em atraso desde ontem 😕;financeiro;aplicativo;normal;teste
+ATE-0122;Gente, a aula não aparece na plataforma antes do prazo;suporte_tecnico;aplicativo;normal;treino
+ATE-0054;Preciso de ajuda: preciso negociar uma parcela em atraso antes do prazo 😕;financeiro;aplicativo;normal;treino
+ATE-0044;Gente, o pagamento ainda não foi reconhecido pela primeira vez Aguardo retorno.;financeiro;aplicativo;normal;treino
+ATE-0165;Preciso de ajuda: preciso consultar se uma obra está disponível desde ontem Aguardo retorno.;biblioteca;aplicativo;normal;treino
+ATE-0076;Olá, quero informações sobre emissão de diploma ainda hoje Isso é urgente.;secretaria_academica;email;normal;treino
+ATE-0031;Olá, preciso da segunda via do boleto da mensalidade para concluir uma atividade Conseguem verificar?;financeiro;email;alta;teste
+ATE-0052;Olá, quero informações sobre bolsa e desconto quando possível Aguardo retorno.;financeiro;aplicativo;normal;validacao
+ATE-0140;GENTE, A AULA NÃO APARECE NA PLATAFORMA NA ÚLTIMA TENTATIVA;suporte_tecnico;aplicativo;normal;treino
+ATE-0078;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico para concluir uma atividade Aguardo retorno.;secretaria_academica;email;normal;treino
+ATE-0082;Olá, quero informações sobre emissão de diploma antes da próxima aula Obrigado.;secretaria_academica;email;normal;treino
+ATE-0195;Preciso de ajuda: o acesso funciona, mas o livro indicado não aparece no acervo pela primeira vez;biblioteca;aplicativo;alta;treino
+ATE-0181;Olá, quero renovar o empréstimo de um livro quando possível Isso é urgente.;biblioteca;aplicativo;normal;treino
+ATE-0160;Olá, não recebo o código de acesso no email nesta semana Conseguem verificar?;suporte_tecnico;aplicativo;normal;treino
+ATE-0083;Gente, o portal abre, mas minha matrícula não aparece desde ontem Obrigado.;secretaria_academica;aplicativo;alta;treino
+ATE-0111;Preciso de ajuda: o portal abre, mas minha matrícula não aparece para concluir uma atividade Conseguem verificar?;secretaria_academica;aplicativo;alta;treino
+ATE-0194;Gente, não consigo acessar a biblioteca digital antes do prazo 😕;biblioteca;email;normal;validacao
+ATE-0015;Preciso de ajuda: gostaria de entender o valor cobrado neste mês nesta semana Isso é urgente.;financeiro;email;alta;treino
+ATE-0090;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico antes do prazo;secretaria_academica;email;normal;validacao
+ATE-0055;Olá, preciso da segunda via do boleto da mensalidade pela primeira vez;financeiro;email;alta;treino
+ATE-0188;Gente, não consigo acessar a biblioteca digital nesta semana Obrigado.;biblioteca;email;normal;teste
+ATE-0229;Olá, a matrícula foi concluída, mas preciso rever a grade com a coordenação desde ontem Conseguem verificar?;coordenacao;email;normal;treino
+ATE-0003;Preciso de ajuda: gostaria de entender o valor cobrado neste mês desde ontem Obrigado.;financeiro;email;alta;treino
+ATE-0149;Gente, preciso enviar um documento à secretaria, mas o portal apresenta erro nesta semana;suporte_tecnico;email;normal;validacao
+ATE-0238;Olá, preciso discutir meu plano de estudos para este período Conseguem verificar?;coordenacao;aplicativo;normal;treino
+ATE-0205;Olá, a matrícula foi concluída, mas preciso rever a grade com a coordenação para este período Aguardo retorno.;financeiro;email;normal;teste
+ATE-0135;Preciso de ajuda: o aplicativo fecha quando tento abrir as notas para este período Isso é urgente.;suporte_tecnico;email;alta;treino
+ATE-0139;Olá, minha senha não funciona mesmo depois da redefinição pelo portal;suporte_tecnico;email;alta;validacao
+ATE-0059;Gente, o portal abre, mas minha matrícula não aparece para este período Isso é urgente.;coordenacao;aplicativo;alta;teste
+ATE-0043;Olá, preciso da segunda via do boleto da mensalidade antes do prazo Aguardo retorno.;financeiro;email;alta;treino
+ATE-0154;Olá, não recebo o código de acesso no email para concluir uma atividade Aguardo retorno.;suporte_tecnico;aplicativo;normal;validacao
+ATE-0145;Olá, preciso enviar um documento à secretaria, mas o portal apresenta erro pela primeira vez Aguardo retorno.;suporte_tecnico;email;normal;treino
+ATE-0125;  Gente,  preciso  enviar um documento à secretaria, mas o portal apresenta erro antes da próxima aula Conseguem verificar?  ;suporte_tecnico;email;normal;treino
+ATE-0142;Olá, não recebo o código de acesso no email quando possível Conseguem verificar?;suporte_tecnico;aplicativo;normal;treino
+ATE-0058;Olá, quero informações sobre bolsa e desconto desde ontem Conseguem verificar?;financeiro;aplicativo;normal;treino
+ATE-0175;Olá, o acesso funciona, mas o livro indicado não aparece no acervo antes da próxima aula 😕;biblioteca;aplicativo;alta;treino
+ATE-0158;Gente, a aula não aparece na plataforma antes da próxima aula;suporte_tecnico;aplicativo;normal;teste
+ATE-0150;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo pelo portal Obrigado.;suporte_tecnico;aplicativo;normal;treino
+ATE-0200;Gente, não consigo acessar a biblioteca digital pelo portal Isso é urgente.;biblioteca;email;normal;treino
+ATE-0134;Gente, a aula não aparece na plataforma pela primeira vez Conseguem verificar?;suporte_tecnico;aplicativo;normal;validacao
+ATE-0004;Olá, quero informações sobre bolsa e desconto nesta semana Conseguem verificar?;financeiro;aplicativo;normal;treino
+ATE-0049;Olá, não consigo entrar no portal para emitir o boleto pelo portal Conseguem verificar?;financeiro;email;normal;treino
+ATE-0037;Olá, não consigo entrar no portal para emitir o boleto nesta semana;financeiro;email;normal;validacao
+ATE-0029;Gente, não consigo entrar no portal para emitir o boleto ainda hoje;financeiro;email;normal;treino
+ATE-0019;Olá, preciso da segunda via do boleto da mensalidade quando possível;financeiro;email;alta;treino
+ATE-0180;Preciso de ajuda: não consigo baixar o artigo indicado pelo professor ainda hoje Conseguem verificar?;biblioteca;email;normal;treino
+ATE-0228;Preciso de ajuda: preciso de orientação acadêmica sobre o próximo período antes da próxima aula Obrigado.;coordenacao;aplicativo;normal;treino
+ATE-0040;Olá, quero informações sobre bolsa e desconto ainda hoje Conseguem verificar?;financeiro;aplicativo;normal;treino
+ATE-0123;PRECISO DE AJUDA: O APLICATIVO FECHA QUANDO TENTO ABRIR AS NOTAS PELA PRIMEIRA VEZ OBRIGADO.;suporte_tecnico;email;alta;teste
+ATE-0232;Olá, preciso discutir meu plano de estudos na última tentativa Aguardo retorno.;coordenacao;aplicativo;normal;treino
+ATE-0126;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo desde ontem Isso é urgente.;suporte_tecnico;aplicativo;normal;treino
+ATE-0127;Olá, minha senha não funciona mesmo depois da redefinição nesta semana Aguardo retorno.;suporte_tecnico;email;alta;treino
+ATE-0170;Gente, não consigo acessar a biblioteca digital quando possível Obrigado.;biblioteca;email;normal;treino
+ATE-0089;Gente, preciso solicitar uma declaração de matrícula para concluir uma atividade 😕;secretaria_academica;aplicativo;normal;teste
+ATE-0144;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo antes do prazo Isso é urgente.;suporte_tecnico;aplicativo;normal;validacao
+ATE-0039;PRECISO DE AJUDA: GOSTARIA DE ENTENDER O VALOR COBRADO NESTE MÊS NA ÚLTIMA TENTATIVA OBRIGADO.;financeiro;email;alta;treino
+ATE-0162;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo na última tentativa Isso é urgente.;suporte_tecnico;aplicativo;normal;treino
+ATE-0105;Preciso de ajuda: a matrícula em uma disciplina não foi confirmada desde ontem Aguardo retorno.;secretaria_academica;aplicativo;normal;validacao
+ATE-0219;Preciso de ajuda: tenho dúvida sobre equivalência entre duas disciplinas nesta semana Obrigado.;coordenacao;email;alta;treino
+ATE-0094;Olá, quero informações sobre emissão de diploma desde ontem Isso é urgente.;secretaria_academica;email;normal;teste
+ATE-0066;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico quando possível Conseguem verificar?;secretaria_academica;email;normal;treino
+ATE-0100;Olá, quero informações sobre emissão de diploma para concluir uma atividade Obrigado.;secretaria_academica;email;normal;validacao
+ATE-0198;Preciso de ajuda: não consigo baixar o artigo indicado pelo professor desde ontem Conseguem verificar?;biblioteca;email;normal;teste
+ATE-0192;Preciso de ajuda: não consigo baixar o artigo indicado pelo professor quando possível Aguardo retorno.;biblioteca;email;normal;treino
+ATE-0048;Preciso de ajuda: preciso negociar uma parcela em atraso nesta semana Obrigado.;financeiro;aplicativo;normal;treino
+ATE-0075;Preciso de ajuda: o portal abre, mas minha matrícula não aparece na última tentativa Conseguem verificar?;secretaria_academica;aplicativo;alta;validacao
+ATE-0159;Preciso de ajuda: o aplicativo fecha quando tento abrir as notas desde ontem Obrigado.;suporte_tecnico;email;alta;validacao
+ATE-0185;Gente, quero saber como reservar um livro para este período 😕;biblioteca;aplicativo;normal;treino
+ATE-0047;Gente, não consigo emitir o comprovante de pagamento desde ontem;financeiro;email;alta;validacao
+ATE-0101;Gente, preciso solicitar uma declaração de matrícula antes do prazo Obrigado.;secretaria_academica;aplicativo;normal;treino
+ATE-0217;  Olá,  a  matrícula foi concluída, mas preciso rever a grade com a coordenação antes da próxima aula  ;coordenacao;email;normal;treino
+ATE-0152;Gente, a aula não aparece na plataforma ainda hoje Conseguem verificar?;suporte_tecnico;aplicativo;normal;treino
+ATE-0113;Gente, preciso enviar um documento à secretaria, mas o portal apresenta erro para este período;secretaria_academica;email;normal;teste
+ATE-0084;Preciso de ajuda: quero corrigir um dado no meu cadastro acadêmico nesta semana Conseguem verificar?;secretaria_academica;email;normal;teste
+ATE-0190;Olá, o sistema indica uma multa que não reconheço na última tentativa Isso é urgente.;biblioteca;email;normal;treino
+ATE-0013;Olá, não consigo entrar no portal para emitir o boleto antes da próxima aula Conseguem verificar?;financeiro;email;normal;treino
+ATE-0114;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo antes da próxima aula Obrigado.;suporte_tecnico;aplicativo;normal;validacao
+ATE-0204;Preciso de ajuda: não consigo baixar o artigo indicado pelo professor para concluir uma atividade;biblioteca;email;normal;validacao
+ATE-0091;OLÁ, O PORTAL ABRE, MAS MINHA MATRÍCULA NÃO APARECE PELA PRIMEIRA VEZ OBRIGADO.;secretaria_academica;aplicativo;alta;treino
+ATE-0191;Gente, o acesso funciona, mas o livro indicado não aparece no acervo ainda hoje Isso é urgente.;biblioteca;aplicativo;alta;treino
+ATE-0225;Preciso de ajuda: a matrícula foi concluída, mas preciso rever a grade com a coordenação antes do prazo 😕;financeiro;email;normal;teste
+ATE-0172;Olá, o sistema indica uma multa que não reconheço antes do prazo Isso é urgente.;biblioteca;email;normal;treino
+ATE-0239;Gente, quero relatar um conflito de horários antes da próxima aula Conseguem verificar?;coordenacao;email;alta;treino
+ATE-0124;Olá, não recebo o código de acesso no email para este período Conseguem verificar?;suporte_tecnico;aplicativo;normal;validacao
+ATE-0053;Gente, nao consigo entrar no portal para emitir o boleto para concluir uma atividade Aguardo retorno.;financeiro;email;normal;treino
+ATE-0005;GENTE, NÃO CONSIGO ENTRAR NO PORTAL PARA EMITIR O BOLETO PELO PORTAL CONSEGUEM VERIFICAR?;financeiro;email;normal;treino
+ATE-0151;;suporte_tecnico;email;alta;treino
+ATE-0106;Olá, quero informações sobre emissão de diploma nesta semana 😕;secretaria_academica;email;normal;treino
+ATE-0041;  Gente,  não  consigo entrar no portal para emitir o boleto quando possível Conseguem verificar?  ;secretaria_academica;email;normal;teste
+ATE-0079;Olá, o portal abre, mas minha matrícula não aparece antes do prazo 😕;coordenacao;aplicativo;alta;teste
+ATE-0174;  Preciso  de  ajuda: não consigo baixar o artigo indicado pelo professor para este período Aguardo retorno.  ;biblioteca;email;normal;validacao
+ATE-0120;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo quando possível 😕;suporte_tecnico;aplicativo;normal;treino
+ATE-0224;Gente, quero orientação sobre mudança de turma para concluir uma atividade Aguardo retorno.;coordenacao;aplicativo;normal;treino
+ATE-0167;Gente, o acesso funciona, mas o livro indicado não aparece no acervo pelo portal 😕;biblioteca;aplicativo;alta;treino
+ATE-0141;Preciso de ajuda: preciso enviar um documento à secretaria, mas o portal apresenta erro ainda hoje Obrigado.;suporte_tecnico;email;normal;treino
+ATE-0108;PRECISO DE AJUDA: QUERO CORRIGIR UM DADO NO MEU CADASTRO ACADÊMICO NA ÚLTIMA TENTATIVA;secretaria_academica;email;normal;treino
+ATE-0237;Preciso de ajuda: a matrícula foi concluída, mas preciso rever a grade com a coordenação pela primeira vez Obrigado.;coordenacao;email;normal;treino
+ATE-0203;GENTE, O ACESSO FUNCIONA, MAS O LIVRO INDICADO NÃO APARECE NO ACERVO QUANDO POSSÍVEL 😕;suporte_tecnico;aplicativo;alta;teste
+ATE-0161;Gente, preciso enviar um documento à secretaria, mas o portal apresenta erro pelo portal Conseguem verificar?;suporte_tecnico;email;normal;treino
+ATE-0138;Preciso de ajuda: o portal apresenta erro ao enviar o arquivo nesta semana 😕;suporte_tecnico;aplicativo;normal;teste
+ATE-0045;Preciso de ajuda: não consigo entrar no portal para emitir o boleto para este período 😕;financeiro;email;normal;treino
+ATE-0006;Gente, não consigo entrar no portal para emitir o boleto na última tentativa Aguardo retorno.;financeiro;aplicativo;normal;teste
+ATE-0103;Olá, quero informações sobre emissão de diploma na última tentativa Obrigado.;secretaria_academica;aplicativo;alta;treino
+ATE-0236;Olá, preciso conversar sobre a organização da grade ainda hoje Conseguem verificar?;coordenacao;aplicativo;normal;validacao
