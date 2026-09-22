@@ -4,12 +4,12 @@
 
 | Informação   | Descrição                                                                 |
 | ------------ | -------------------------------------------------------------------------- |
-| Universidade | *[completar]*                                                              |
-| Curso        | *[completar]*                                                              |
+| Universidade | *Universidade Veiga de Almeida*                                                              |
+| Curso        | *Ciencias de Dados e INteligencia Artificial*                                                              |
 | Disciplina   | Linguagem Natural                                                          |
-| Professor    | *[completar]*                                                              |
+| Professor    | *Rogerio Mandelli*                                                              |
 | Projeto      | P03 — Classificação de solicitações de atendimento por setor de destino  |
-| Grupo        | *[completar código/nome do grupo]*                                         |
+| Grupo        | *Grupo 9*                                         |
 | Integrantes  | Ana Clara de Souza, Leticia Vieira, Mariana Garcez                        |
 
 ## Apresentação
