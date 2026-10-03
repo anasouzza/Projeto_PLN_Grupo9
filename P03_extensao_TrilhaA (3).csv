@@ -1,0 +1,121 @@
+﻿id;texto;setor_destino;par_alvo;n_pedidos;marcador_prioridade;ambiguo;setor_alternativo;origem;revisado_pelo_grupo
+EXT-001;Não consigo entrar na base de periódicos pelo acesso da biblioteca. O mais urgente para mim, porém, é que quero solicitar meu histórico escolar.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-002;Quero saber se posso parcelar a mensalidade atrasada, mas o que preciso resolver primeiro é isto: não vejo no meu registro uma disciplina em que fui aprovado.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-003;Antes de tudo, preciso que resolvam isto: quero informações sobre o prazo para rematrícula. Se der, veja também isto: o comprovante de pagamento foi enviado, mas a baixa ainda não saiu.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-004;O nome que aparece no meu documento acadêmico está escrito errado.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-005;O valor do boleto veio diferente do combinado.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-006;Quero saber o prazo de devolução dos livros de referência.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-007;Preciso da segunda via do boleto deste mês.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-008;Meu acesso ao e-mail institucional foi bloqueado.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-009;Uma disciplina que cursei não consta no meu registro.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-010;O desconto combinado na mensalidade não foi aplicado. Além disso, preciso de uma declaração de que estou regularmente matriculado.;financeiro;financeiro×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-011;Tenho dois assuntos. A minha prioridade é esta: preciso de orientação sobre uma decisão acadêmica que não é apenas cadastral. Depois, o sistema sai do ar antes de eu concluir a operação.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-012;Quero confirmar se o estorno de um pagamento em duplicidade foi feito e preciso de uma declaração de vínculo para apresentar no estágio, mas o meu foco agora é o segundo assunto.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-013;Quero renovar o empréstimo de um exemplar antes de vencer. Além disso, preciso de uma declaração de conclusão de disciplinas.;biblioteca;biblioteca×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-014;Não encontro no catálogo um livro da bibliografia da disciplina.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-015;Preciso de uma declaração de vínculo para apresentar no estágio.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-016;Antes de tudo, preciso que resolvam isto: preciso reservar um livro que está emprestado a outro aluno. Se der, veja também isto: quero pedir o aproveitamento de disciplinas cursadas em outra instituição.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-017;Recebi uma cobrança de juros que não entendi.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-018;Preciso de uma declaração de conclusão de disciplinas.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-019;Me ajudem primeiro com o seguinte: preciso de uma declaração de que estou regularmente matriculado. Outro assunto: preciso da segunda via do boleto deste mês.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-020;Preciso de orientação sobre a escolha do tema do meu trabalho de conclusão.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-021;O aplicativo da faculdade fecha sozinho ao abrir, mas o que preciso resolver primeiro é isto: preciso conversar sobre a organização da minha grade neste semestre.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-022;Quero confirmar se o estorno de um pagamento em duplicidade foi feito.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-023;Antes de tudo, preciso que resolvam isto: o aplicativo da faculdade fecha sozinho ao abrir. Se der, veja também isto: preciso de orientação sobre a escolha do tema do meu trabalho de conclusão.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-024;Minha solicitação principal é a seguinte: a página de notas não carrega no navegador. Também duas disciplinas que preciso cursar têm horários que se chocam.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-025;Meu nome saiu incorreto em um documento acadêmico e o livro que retirei veio com páginas faltando e quero registrar isso, mas o meu foco agora é o segundo assunto.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-026;Fiz o pagamento da mensalidade e o débito continua aparecendo.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-027;Tenho dois assuntos. A minha prioridade é esta: não consigo entrar na base de periódicos pelo acesso da biblioteca. Depois, preciso de uma declaração de conclusão de disciplinas.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-028;Quero pedir o aproveitamento de disciplinas cursadas em outra instituição.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-029;Minha solicitação principal é a seguinte: o comprovante de pagamento foi enviado, mas a baixa ainda não saiu. Também preciso de uma declaração de vínculo para apresentar no estágio.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-030;Quero saber se posso parcelar a mensalidade atrasada e também preciso emitir o histórico escolar com as notas do último semestre.;financeiro;financeiro×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-031;Quero discutir uma situação pedagógica que aconteceu com minha turma.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-032;Não encontro no catálogo um livro da bibliografia da disciplina e também quero solicitar meu histórico escolar.;biblioteca;biblioteca×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-033;Duas disciplinas que preciso cursar têm horários que se chocam.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-034;Não consigo fazer login no portal do aluno.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-035;Uma disciplina que cursei não consta no meu registro. O mais urgente para mim, porém, é que um livro que devolvi ontem ainda consta como emprestado no meu nome.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-036;Me ajudem primeiro com o seguinte: não encontro no catálogo um livro da bibliografia da disciplina. Outro assunto: quero corrigir a data de nascimento que consta no meu cadastro.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-037;Quero saber as datas do calendário de rematrícula.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-038;Aparece uma mensagem de erro quando tento enviar um arquivo na plataforma. Além disso, preciso conversar sobre a organização da minha grade neste semestre.;suporte_tecnico;coordenacao×suporte_tecnico;2;nao;sim;coordenacao;IA (Claude);sim
+EXT-039;O ambiente virtual de aprendizagem não abre. O mais urgente para mim, porém, é que quero orientação sobre os pré-requisitos antes de escolher as próximas disciplinas.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-040;Tenho dois assuntos. A minha prioridade é esta: quero saber como pedir aproveitamento de estudos anteriores. Depois, preciso de um comprovante de quitação das mensalidades.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-041;Quero negociar uma pendência financeira em aberto. O mais urgente para mim, porém, é que preciso emitir o histórico escolar com as notas do último semestre.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-042;Quero saber como pedir aproveitamento de estudos anteriores. Além disso, fiz o pagamento da mensalidade e o débito continua aparecendo.;secretaria_academica;financeiro×secretaria_academica;2;nao;sim;financeiro;IA (Claude);sim
+EXT-043;Preciso alterar meu endereço nos dados acadêmicos.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-044;Minha carteirinha da biblioteca não passa mais na catraca.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-045;Quero saber em que ordem cursar as disciplinas do próximo período, mas o que preciso resolver primeiro é isto: o ambiente virtual de aprendizagem não abre.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-046;Preciso emitir o histórico escolar com as notas do último semestre.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-047;Preciso de um comprovante de quitação das mensalidades.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-048;Tenho duas questões: o código de verificação não chega no meu celular e preciso de orientação sobre a escolha do tema do meu trabalho de conclusão.;suporte_tecnico;coordenacao×suporte_tecnico;2;nao;sim;coordenacao;IA (Claude);sim
+EXT-049;Preciso de uma declaração de vínculo para apresentar no estágio e também recebi uma cobrança de juros que não entendi.;secretaria_academica;financeiro×secretaria_academica;2;nao;sim;financeiro;IA (Claude);sim
+EXT-050;Antes de tudo, preciso que resolvam isto: quero confirmar se o estorno de um pagamento em duplicidade foi feito. Se der, veja também isto: quero saber como pedir aproveitamento de estudos anteriores.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-051;Quero conversar sobre a possibilidade de adiantar disciplinas da grade.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-052;O código de verificação não chega no meu celular e preciso de apoio para entender como fica minha sequência de disciplinas após uma reprovação, mas o meu foco agora é o segundo assunto.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-053;Minha solicitação principal é a seguinte: preciso corrigir o sobrenome que aparece errado no cadastro. Também o desconto combinado na mensalidade não foi aplicado.;secretaria_academica;financeiro×secretaria_academica;2;sim;nao;financeiro;IA (Claude);sim
+EXT-054;Me ajudem primeiro com o seguinte: quero saber se posso parcelar a mensalidade atrasada. Outro assunto: preciso corrigir o sobrenome que aparece errado no cadastro.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-055;Não consigo entrar na base de periódicos pelo acesso da biblioteca.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-056;Quero saber como pedir aproveitamento de estudos anteriores.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-057;Duas disciplinas que preciso cursar têm horários que se chocam. Além disso, o sistema sai do ar antes de eu concluir a operação.;coordenacao;coordenacao×suporte_tecnico;2;nao;sim;suporte_tecnico;IA (Claude);sim
+EXT-058;Quero saber as datas do calendário de rematrícula, mas o que preciso resolver primeiro é isto: recebi uma multa por atraso que acho que não é devida.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-059;Quero discutir uma situação pedagógica que aconteceu com minha turma e não consigo fazer login no portal do aluno, mas o meu foco agora é o segundo assunto.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-060;Preciso de apoio para entender como fica minha sequência de disciplinas após uma reprovação.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-061;O livro que retirei veio com páginas faltando e quero registrar isso.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-062;Não encontro no catálogo um livro da bibliografia da disciplina, mas o que preciso resolver primeiro é isto: uma disciplina que cursei não consta no meu registro.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-063;Preciso atualizar meus dados cadastrais na instituição.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-064;O comprovante de pagamento foi enviado, mas a baixa ainda não saiu.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-065;Tenho dois assuntos. A minha prioridade é esta: aparece uma mensagem de erro quando tento enviar um arquivo na plataforma. Depois, preciso de apoio para entender como fica minha sequência de disciplinas após uma reprovação.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-066;Preciso de uma declaração de matrícula atualizada.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-067;"Quero orientação sobre os pré-requisitos antes de escolher as próximas disciplinas; ao mesmo tempo, o portal fica em tela branca depois que entro.";coordenacao;coordenacao×suporte_tecnico;2;nao;sim;suporte_tecnico;IA (Claude);sim
+EXT-068;Um artigo do acervo online não abre para mim.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-069;Me ajudem primeiro com o seguinte: quero saber em que ordem cursar as disciplinas do próximo período. Outro assunto: a página de notas não carrega no navegador.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-070;Minha solicitação principal é a seguinte: minha carteirinha da biblioteca não passa mais na catraca. Também preciso de uma declaração de matrícula atualizada.;biblioteca;biblioteca×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-071;O nome do meu curso está errado no meu cadastro e preciso de um comprovante de quitação das mensalidades, mas o meu foco agora é o segundo assunto.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-072;Quero informações sobre o prazo para rematrícula.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-073;Não vejo no meu registro uma disciplina em que fui aprovado. O mais urgente para mim, porém, é que preciso da segunda via do boleto deste mês.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-074;Quero negociar uma pendência financeira em aberto.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-075;Quero solicitar meu histórico escolar.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-076;Quero saber em que ordem cursar as disciplinas do próximo período e também minha senha não funciona mesmo depois de redefinir.;coordenacao;coordenacao×suporte_tecnico;2;nao;sim;suporte_tecnico;IA (Claude);sim
+EXT-077;Preciso de orientação sobre uma decisão acadêmica que não é apenas cadastral. O mais urgente para mim, porém, é que minha senha não funciona mesmo depois de redefinir.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-078;Não consigo fazer login no portal do aluno e também quero pedir análise de uma situação excepcional no meu percurso acadêmico.;suporte_tecnico;coordenacao×suporte_tecnico;2;nao;sim;coordenacao;IA (Claude);sim
+EXT-079;O sistema sai do ar antes de eu concluir a operação.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-080;O ambiente virtual de aprendizagem não abre.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-081;Minha solicitação principal é a seguinte: preciso de orientação sobre a escolha do tema do meu trabalho de conclusão. Também não consigo fazer login no portal do aluno.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-082;Quero saber em que ordem cursar as disciplinas do próximo período.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-083;"Preciso da segunda via do boleto deste mês; ao mesmo tempo, preciso alterar meu endereço nos dados acadêmicos.";financeiro;financeiro×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-084;O semestre em que estou matriculado aparece errado no meu registro.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-085;Preciso corrigir o sobrenome que aparece errado no cadastro.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-086;Preciso reservar um livro que está emprestado a outro aluno.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-087;Quero orientação sobre os pré-requisitos antes de escolher as próximas disciplinas.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-088;A página de notas não carrega no navegador.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-089;O código de verificação não chega no meu celular.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-090;Quero corrigir a data de nascimento que consta no meu cadastro.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-091;O aplicativo da faculdade fecha sozinho ao abrir.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-092;Tenho dois assuntos. A minha prioridade é esta: quero pedir o aproveitamento de disciplinas cursadas em outra instituição. Depois, o livro que retirei veio com páginas faltando e quero registrar isso.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-093;Aparece uma mensagem de erro quando tento enviar um arquivo na plataforma.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-094;Antes de tudo, preciso que resolvam isto: quero discutir uma situação pedagógica que aconteceu com minha turma. Se der, veja também isto: aparece uma mensagem de erro quando tento enviar um arquivo na plataforma.;coordenacao;coordenacao×suporte_tecnico;2;sim;nao;suporte_tecnico;IA (Claude);sim
+EXT-095;Quero renovar o empréstimo de um exemplar antes de vencer.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-096;Preciso de uma declaração de matrícula atualizada e também um artigo do acervo online não abre para mim.;secretaria_academica;biblioteca×secretaria_academica;2;nao;sim;biblioteca;IA (Claude);sim
+EXT-097;Tenho duas questões: o nome do meu curso está errado no meu cadastro e o comprovante de pagamento foi enviado, mas a baixa ainda não saiu.;secretaria_academica;financeiro×secretaria_academica;2;nao;sim;financeiro;IA (Claude);sim
+EXT-098;O portal fica em tela branca depois que entro.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-099;Minha matrícula não aparece corretamente no sistema acadêmico.;secretaria_academica;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-100;Quero pedir análise de uma situação excepcional no meu percurso acadêmico.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-101;O desconto combinado na mensalidade não foi aplicado.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-102;Quero pedir o aproveitamento de disciplinas cursadas em outra instituição. Além disso, recebi uma multa por atraso que acho que não é devida.;secretaria_academica;biblioteca×secretaria_academica;2;nao;sim;biblioteca;IA (Claude);sim
+EXT-103;Tenho duas questões: meu nome saiu incorreto em um documento acadêmico e minha carteirinha da biblioteca não passa mais na catraca.;secretaria_academica;biblioteca×secretaria_academica;2;nao;sim;biblioteca;IA (Claude);sim
+EXT-104;Recebi uma multa por atraso que acho que não é devida.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-105;Antes de tudo, preciso que resolvam isto: quero saber as datas do calendário de rematrícula. Se der, veja também isto: minha carteirinha da biblioteca não passa mais na catraca.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-106;Preciso conversar sobre a organização da minha grade neste semestre.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-107;Preciso reservar um livro que está emprestado a outro aluno e preciso de uma declaração de matrícula atualizada, mas o meu foco agora é o segundo assunto.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-108;Minha solicitação principal é a seguinte: quero corrigir a data de nascimento que consta no meu cadastro. Também quero renovar o empréstimo de um exemplar antes de vencer.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-109;Minha senha não funciona mesmo depois de redefinir.;suporte_tecnico;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-110;Preciso de orientação sobre uma decisão acadêmica que vai além de questões de cadastro.;coordenacao;coordenacao×suporte_tecnico;1;nao;nao;;IA (Claude);sim
+EXT-111;Me ajudem primeiro com o seguinte: o sistema sai do ar antes de eu concluir a operação. Outro assunto: quero orientação sobre os pré-requisitos antes de escolher as próximas disciplinas.;suporte_tecnico;coordenacao×suporte_tecnico;2;sim;nao;coordenacao;IA (Claude);sim
+EXT-112;O nome do meu curso está errado no meu cadastro.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-113;Um livro que devolvi ontem ainda consta como emprestado no meu nome.;biblioteca;biblioteca×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-114;Preciso de uma declaração de que estou regularmente matriculado.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-115;Me ajudem primeiro com o seguinte: preciso de uma declaração de conclusão de disciplinas. Outro assunto: um livro que devolvi ontem ainda consta como emprestado no meu nome.;secretaria_academica;biblioteca×secretaria_academica;2;sim;nao;biblioteca;IA (Claude);sim
+EXT-116;Não vejo no meu registro uma disciplina em que fui aprovado.;secretaria_academica;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
+EXT-117;"Um livro que devolvi ontem ainda consta como emprestado no meu nome; ao mesmo tempo, preciso atualizar meus dados cadastrais na instituição.";biblioteca;biblioteca×secretaria_academica;2;nao;sim;secretaria_academica;IA (Claude);sim
+EXT-118;Tenho dois assuntos. A minha prioridade é esta: quero negociar uma pendência financeira em aberto. Depois, preciso de uma declaração de que estou regularmente matriculado.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-119;Quero informações sobre o prazo para rematrícula, mas o que preciso resolver primeiro é isto: fiz o pagamento da mensalidade e o débito continua aparecendo.;financeiro;financeiro×secretaria_academica;2;sim;nao;secretaria_academica;IA (Claude);sim
+EXT-120;Quero saber se posso parcelar a mensalidade atrasada.;financeiro;financeiro×secretaria_academica;1;nao;nao;;IA (Claude);sim
